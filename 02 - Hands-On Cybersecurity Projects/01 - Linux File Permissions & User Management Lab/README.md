@@ -22,7 +22,7 @@ The company consists of six fictional employees across three departments: Inform
 
 - [x] Project planning
 - [x] Environment preparation
-- [x] User and group creation
+- [x] Users and groups creation
 - [ ] Directory and file creation
 - [ ] Ownership and permission configuration
 - [ ] Security testing and verification
