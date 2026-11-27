@@ -11,3 +11,4 @@ The purpose of these projects is to apply cybersecurity concepts to realistic sc
 skills necessary for a career in cybersecurity and digital forensics.
 
 All security exercises are conducted ethically and within authorized environments.
+l
